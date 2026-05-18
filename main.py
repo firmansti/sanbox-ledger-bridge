@@ -85,7 +85,7 @@ def generate_dummy_data():
     invoices = []
     transactions = []
     
-    base_date = datetime(2026, 4, 25, 10, 0, 0)
+    base_date = datetime(2026, 5, 10, 10, 0, 0)
     
     # Scaling to 200 records
     for i in range(200):
